@@ -1,0 +1,15 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    column-gap: 0px;
+    row-gap: 0px;
+}
+
+.grid-box {
+    aspect-ratio: 1;
+    border-style: solid;
+    border-color: slategray;
+}
+
+    
+
